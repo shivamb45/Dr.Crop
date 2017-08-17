@@ -9,6 +9,7 @@ There are two directories One contains iOS App Source Code and Other Contains Dj
 You need to resolve depencies of FarmerAssistant Django Project.
 
 ```cd FarmerAssistant```
+
 ```sudo -H pip install -r ./requirements.txt```
 
 then run Development Version Server provided by Django

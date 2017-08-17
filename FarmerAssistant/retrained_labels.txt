@@ -1,0 +1,10 @@
+tomato tomato yellow leaf curl virus
+tomato tomato mosaic virus
+tomato septoria leaf spot
+tomato spider mites two spotted spider mite
+tomato leaf mold
+tomato target spot
+tomato early blight
+tomato late blight
+tomato healthy
+tomato bacterial spot

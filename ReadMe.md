@@ -1,8 +1,11 @@
-# Dr. Crop | Prototype for Rajasthan hackathon 2.0
+# Dr. Crop | Prototype for Rajasthan Hackathon 2.0
 
 ## Overview
 
-There are two directories One contains iOS App Source Code and Other Contains Django Project which serves the Machine Learning Model
+There are two directories One contains iOS App Source Code and Other Contains Django Project which serves the Machine Learning Model.
+
+```DrCrop/``` is a directory containing iOS Project. Project was co-authored by @tejasupmanyu.
+```FarmerAssistant/``` is Django Project, it backs the DrCrop.
 
 ## Running Project
 
@@ -24,4 +27,6 @@ reserve IP 192.168.43.100 for your machine on the wifi Address you are connected
 
 then run the Xcode Project Using Xcode 9 Beta 5 version
 
+*will be updated soon with more detailed instructions*
 
+*For any Queries mail the authors at shivamb45@yahoo.in | shivambharadwaj@yahoo.in | tejasupmanyu@gmail.com*

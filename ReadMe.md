@@ -5,6 +5,7 @@
 There are two directories One contains iOS App Source Code and Other Contains Django Project which serves the Machine Learning Model.
 
 ```DrCrop/``` is a directory containing iOS Project. Project was co-authored by @tejasupmanyu.
+
 ```FarmerAssistant/``` is Django Project, it backs the DrCrop.
 
 ## Running Project
